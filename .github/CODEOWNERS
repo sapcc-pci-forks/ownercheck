@@ -1,2 +1,3 @@
+apps/app-*       @mchristianl
 subdir/file      @rhalina
-*                @grandchild @mchristianl @geisslet
+/                @grandchild @mchristianl @geisslet
